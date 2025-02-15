@@ -7,6 +7,7 @@ Immune checkpoint blockade (ICB) therapy response prediction provides remarkable
 <img src="https://github.com/TomasYang001/HINS/blob/main/Graphic_Abstract.png" align="middle" height="100%" width="100%" />
 </p>
 
+
 ## The environment of HINS
 ```
 python==3.10
@@ -44,13 +45,13 @@ Please use the file Dataprocess.py to perform the embedding of Blosum62、Blosum
 Please use the file ESM.py to perform the embedding of ESM2-650
 
 (2)5-fold CV for deep attention networks(DANs):
+
 Blosum62 only
 ```sh
 python nfold_Blosum.py
 ```
 
 Blosum62 plus EMS2:
-Blosum62 only
 ```sh
 bash nfold.sh
 ```
@@ -58,7 +59,14 @@ bash nfold.sh
 (3)Calculating neoanitgen quality with the file Compute_quality.py
 
 (4)Using HINS to predict the response to ICB therapy with the file Prediction.py
+```sh
+python Prediction.py "CGLU111" "NAgdata/CGLU111.csv"
+```
 
+## Webserver
+HINS is now available as a webserver!
+
+We recommend using HINS webserver available at
 
 # Acknowledgments
 The authors sincerely hope to receive any suggestions from you!
