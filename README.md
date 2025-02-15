@@ -2,7 +2,10 @@
 
 Immune checkpoint blockade (ICB) therapy response prediction provides remarkable genomic and transcriptomic gains and has successfully understood the molecular mechanisms underlying various cancers. However, only a subset of patients with advanced tumors currently benefit from ICB therapies, which at times incur considerable side effects and costs. Developing predictive tools for ICB response has remained a serious challenge because of the complexity of the immune response and the shortage of large cohorts of ICB-treated patients that include both ‘omics’ and response data. Here, based on a pooled pan-cancer genomic dataset of 919 patients treated with anti-PD-1 or anti-CTLA-4, we constructed human leukocyte antigen class I (HLA- I)-based immunogenic neoantigen score (HINS). HINS is a predictor of ICB response using deep attention networks and HLA evolutionary divergence to integrate the factors associated with immune activation and evasion. It yields an overall accuracy of AUC=0.853, outperforming existing predictors and capturing more than 75% true responders. Experimental analysis indicated that patients with higher HINS were more likely to undergo survival benefits following ICB therapy. Our results highlight the transcriptional and genomic correlations between HINS-identified molecule features and ICB response, such as immunoresponsive gene enrich pathways, favorable and unfavorable genomic subgroups, and hotspot somatic events in diver genes. This study presents an interpretable, accurate deep-learning method using meaningful predictive features to predict the response to immune checkpoint blockade, providing genomic insights into the complexity of determinants underlying immunotherapy.
 
-
+## Graphic Abstract
+<p align="center">
+<img src="https://github.com/TomasYang001/HINS/blob/main/Graphic_Abstract.png" align="middle" height="80%" width="80%" />
+</p>
 
 ## The environment of HINS
 ```
