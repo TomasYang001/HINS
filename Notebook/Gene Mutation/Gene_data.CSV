@@ -1,0 +1,894 @@
+Patient,Gene,Protein Change,Class
+CGLU111,TP53,993+1G>T,Splice Site
+CGLU113,TP53,214H>R,Missense_Mutation
+CGLU115,TP53,298E>X,Nonsense_Mutation
+CGLU116,TP53,331Q>X,Nonsense_Mutation
+CGLU117,TP53,193H>R,Missense_Mutation
+CGLU121,TP53,173V>L,Missense_Mutation
+CGLU124,TP53,246M>L,Missense_Mutation
+CGLU125,TP53,P36Afs*7,Frameshift Insertion
+CGLU133,TP53,248R>W,Missense_Mutation
+CGLU135,TP53,204E>X,Nonsense_Mutation
+CGLU159,TP53,192Q>X,Nonsense_Mutation
+CGLU162,TP53,244GGMN>G,Inframe Deletion
+CGLU163,TP53,R156Pfs*14,Frameshift Deletion
+CGLU168,TP53,R273L,Missense_Mutation
+CGLU169,TP53,375+1delG,Splice Site
+CGLU180,TP53,220Y>C,Missense_Mutation
+CGLU181,TP53,375+1delG,Splice Site
+CGLU185,TP53,251I>N,Missense_Mutation
+CGLU189,TP53,337R>C,Missense_Mutation
+CGLU193,TP53,E336*,Nonsense_Mutation
+CGLU198,TP53,216V>M,Missense_Mutation
+CGLU199,TP53,239N>D,Missense_Mutation
+CGLU201,TP53,272V>L,Missense_Mutation
+CGLU212,TP53,P72Rfs*76,Frameshift Deletion
+CGLU213,TP53,241SC>C,Inframe Deletion
+CGLU230,TP53,,Splice Site
+CGLU231,TP53,N263_G266del,Inframe Deletion
+CGLU233,TP53,Y220H,Missense_Mutation
+CGLU240,TP53,K101*,Nonsense_Mutation
+CGLU243,TP53,E294Sfs*51,Frameshift Deletion
+CGLU244,TP53,V157F,Missense_Mutation
+CGLU248,TP53,G112Afs*11,Frameshift Deletion
+CGLU252,TP53,E271K,Missense_Mutation
+CGLU268,TP53,R248L,Missense_Mutation
+CGLU270,TP53,R273C,Missense_Mutation
+CGLU274,TP53,R273L,Missense_Mutation
+CGLU304,TP53,V157F,Missense_Mutation
+CGLU309,TP53,E68*,Nonsense_Mutation
+CGLU310,TP53,,Splice Site
+CGLU311,TP53,S166_Q167del,Inframe Deletion
+CGLU311,TP53,Q165K,Missense_Mutation
+CGLU337,TP53,D259Efs*3,Frameshift Deletion
+CGLU348,TP53,Y163C,Missense_Mutation
+CGLU389,TP53,E294Sfs*51,Frameshift Deletion
+CGLU510,TP53,R273C,Missense_Mutation
+CGLU515,TP53,R158L,Missense_Mutation
+CGLU519,TP53,R248W,Missense_Mutation
+CGLU521,TP53,R248L,Missense_Mutation
+SU2CLC-CLE-NIVO1-T1,TP53,p.R282W,Missense_Mutation
+SU2CLC-CLE-NIVO3-T1,TP53,p.D42fs,Frameshift Deletion
+SU2CLC-CLE-NIVO4-T1,TP53,,Splice Site
+SU2CLC-CLE-NIVO5-T1,TP53,,Splice Site
+SU2CLC-COL-1001-T1,TP53,p.G325*,Nonsense_Mutation
+SU2CLC-COL-1001-T1,TP53,p.IITL254fs,Frameshift Deletion
+SU2CLC-COL-1005-T1,TP53,p.I251L,Missense_Mutation
+SU2CLC-COL-1007-T1,TP53,p.R175H,Missense_Mutation
+SU2CLC-COL-1025-T1,TP53,p.Q165*,Nonsense_Mutation
+SU2CLC-COL-1025-T1,TP53,p.R273L,Missense_Mutation
+SU2CLC-COL-1031-T1,TP53,p.Q192*,Nonsense_Mutation
+SU2CLC-COL-1034-T1,TP53,p.R158L,Missense_Mutation
+SU2CLC-COL-1035-T1,TP53,p.V274A,Missense_Mutation
+SU2CLC-COL-1037-T1,TP53,p.K101fs,Frameshift Insertion
+SU2CLC-COL-1042-T1,TP53,p.R273S,Missense_Mutation
+SU2CLC-COL-1045-T1,TP53,p.D281N,Missense_Mutation
+SU2CLC-DFC-DF0050-T1,TP53,p.Y220C,Missense_Mutation
+SU2CLC-DFC-1429-T1,TP53,p.P85fs,Frameshift Deletion
+SU2CLC-DFC-1014-T1,TP53,p.TCPV140fs,Frameshift Deletion
+SU2CLC-DFC-DF0109-T1,TP53,p.R337L,Missense_Mutation
+SU2CLC-DFC-DF0240-T1,TP53,p.T125K,Splice Site
+SU2CLC-DFC-1425-T1,TP53,p.E258K,Missense_Mutation
+SU2CLC-DFC-1423-T1,TP53,p.R282W,Missense_Mutation
+SU2CLC-DFC-DF0326-T1,TP53,p.V147G,Missense_Mutation
+SU2CLC-DFC-1513-T1,TP53,p.P27S,Missense_Mutation
+SU2CLC-DFC-DF0417-T1,TP53,p.Q104*,Nonsense_Mutation
+SU2CLC-DFC-DF0438-T1,TP53,p.V272E,Missense_Mutation
+SU2CLC-DFC-DF0499-T1,TP53,p.R175H,Missense_Mutation
+SU2CLC-DFC-DF0537-T1,TP53,p.Q192*,Nonsense_Mutation
+SU2CLC-DFC-DF0585-T1,TP53,p.R213Q,Missense_Mutation
+SU2CLC-DFC-DF0597-T1,TP53,p.M237I,Missense_Mutation
+SU2CLC-DFC-DF0598-T1,TP53,p.G105C,Missense_Mutation
+SU2CLC-DFC-DF0599-T1,TP53,p.R282W,Missense_Mutation
+SU2CLC-DFC-1516-T1,TP53,p.I255S,Missense_Mutation
+SU2CLC-DFC-DF0648-T1,TP53,p.P223L,Missense_Mutation
+SU2CLC-DFC-DF0659-T1,TP53,p.G266E,Missense_Mutation
+SU2CLC-DFC-DF0668-T1,TP53,p.E285*,Nonsense_Mutation
+SU2CLC-DFC-DF0669-T1,TP53,p.V173L,Missense_Mutation
+SU2CLC-DFC-1535-T1,TP53,p.S215I,Missense_Mutation
+SU2CLC-DFC-1515-T1,TP53,p.R249M,Missense_Mutation
+SU2CLC-DFC-DF0709-T1,TP53,p.R283P,Missense_Mutation
+SU2CLC-DFC-DF0768-T1,TP53,p.P190L,Missense_Mutation
+SU2CLC-DFC-DF0770-T1,TP53,p.R337C,Missense_Mutation
+SU2CLC-DFC-DF0775-T1,TP53,p.T125T,Splice Site
+SU2CLC-DFC-DF0775-T1,TP53,p.247_249NRR>K,Inframe Deletion
+SU2CLC-DFC-DF0777-T1,TP53,p.P309fs,Frameshift Deletion
+SU2CLC-DFC-DF0778-T1,TP53,p.E294*,Nonsense_Mutation
+SU2CLC-DFC-DF0790-T1,TP53,p.E171*,Nonsense_Mutation
+SU2CLC-DFC-DF0790-T1,TP53,p.Q100H,Missense_Mutation
+SU2CLC-DFC-DF0840-T1,TP53,p.G244R,Missense_Mutation
+SU2CLC-DFC-DF0881-T1,TP53,p.R249S,Missense_Mutation
+SU2CLC-DFC-DF0899-T1,TP53,,Splice Site
+SU2CLC-DFC-DF0902-T1,TP53,p.G154V,Missense_Mutation
+SU2CLC-DFC-DF0908-T1,TP53,p.G334V,Missense_Mutation
+SU2CLC-DFC-DF0910-T1,TP53,p.V218L,Missense_Mutation
+SU2CLC-DFC-DF0910-T1,TP53,p.PHHERC177del,Inframe Deletion
+SU2CLC-DFC-1004-T1,TP53,p.L348F,Missense_Mutation
+SU2CLC-DFC-1005-T1,TP53,p.P278R,Missense_Mutation
+SU2CLC-DFC-1010-T1,TP53,p.R337C,Missense_Mutation
+SU2CLC-DFC-1016-T1,TP53,p.E171*,Nonsense_Mutation
+SU2CLC-DFC-1018-T1,TP53,p.Q192*,Nonsense_Mutation
+SU2CLC-DFC-1018-T1,TP53,p.S116F,Missense_Mutation
+SU2CLC-DFC-1018-T1,TP53,p.S94L,Missense_Mutation
+SU2CLC-DFC-1020-T1,TP53,p.EDSR258fs,Splice Site
+SU2CLC-JHU-0001-T1,TP53,p.S94*,Nonsense_Mutation
+SU2CLC-JHU-0002-T1,TP53,p.E298*,Nonsense_Mutation
+SU2CLC-JHU-0003-T1,TP53,p.Q331*,Nonsense_Mutation
+SU2CLC-JHU-0004-T1,TP53,p.H193R,Missense_Mutation
+SU2CLC-JHU-0006-T1,TP53,p.R196*,Nonsense_Mutation
+SU2CLC-JHU-0006-T1,TP53,p.R248W,Missense_Mutation
+SU2CLC-JHU-0008-T1,TP53,p.E204*,Nonsense_Mutation
+SU2CLC-JHU-0009-T1,TP53,p.Q192*,Nonsense_Mutation
+SU2CLC-JHU-0012-T1,TP53,p.244_247GGMN>D,Inframe Deletion
+SU2CLC-JHU-0013-T1,TP53,p.R156fs,Frameshift Deletion
+SU2CLC-JHU-0018-T1,TP53,,Splice Site
+SU2CLC-JHU-0020-T1,TP53,p.H179R,Missense_Mutation
+SU2CLC-JHU-0024-T1,TP53,p.E294fs,Frameshift Deletion
+SU2CLC-JHU-0025-T1,TP53,p.V157F,Missense_Mutation
+SU2CLC-JHU-0028-T1,TP53,p.G112fs,Frameshift Deletion
+SU2CLC-JHU-0029-T1,TP53,p.E271K,Missense_Mutation
+SU2CLC-MDA-1630-T1,TP53,,Splice Site
+SU2CLC-MDA-1631-T1,TP53,p.P278T,Missense_Mutation
+SU2CLC-MDA-1563-T1,TP53,p.R273C,Missense_Mutation
+SU2CLC-MGH-1048-T1,TP53,p.Y220C,Missense_Mutation
+SU2CLC-MGH-1050-T1,TP53,p.E271V,Missense_Mutation
+SU2CLC-MGH-1051-T1,TP53,p.R213L,Missense_Mutation
+SU2CLC-MGH-1051-T1,TP53,p.R248L,Missense_Mutation
+SU2CLC-MGH-1054-T1,TP53,p.V157F,Missense_Mutation
+SU2CLC-MGH-1129-T1,TP53,p.E298*,Nonsense_Mutation
+SU2CLC-MGH-1131-T1,TP53,,Splice Site
+SU2CLC-MGH-1134-T1,TP53,p.T125T,Splice Site
+SU2CLC-MGH-1148-T1,TP53,p.EPP221fs,Frameshift Deletion
+SU2CLC-MGH-1162-T1,TP53,p.T102fs,Frameshift Deletion
+SU2CLC-MGH-1164-T1,TP53,p.P278S,Missense_Mutation
+SU2CLC-MGH-1169-T1,TP53,p.R280T,Missense_Mutation
+SU2CLC-MGH-1387-T1,TP53,p.K132N,Missense_Mutation
+SU2CLC-MGH-1389-T1,TP53,p.R282W,Missense_Mutation
+SU2CLC-MGH-1412-T1,TP53,p.Q331H,Splice Site
+SU2CLC-MGH-1415-T1,TP53,p.R273G,Missense_Mutation
+SU2CLC-MGH-1416-T1,TP53,p.Y205C,Missense_Mutation
+SU2CLC-MGH-1417-T1,TP53,p.G244S,Missense_Mutation
+SU2CLC-MGH-1488-T1,TP53,p.R273P,Missense_Mutation
+SU2CLC-MGH-1490-T1,TP53,p.E204*,Nonsense_Mutation
+SU2CLC-MGH-1492-T1,TP53,p.Q144*,Nonsense_Mutation
+SU2CLC-MGH-1498-T1,TP53,p.R337H,Missense_Mutation
+SU2CLC-MGH-1503-T1,TP53,p.E294*,Nonsense_Mutation
+SU2CLC-MGH-1565-T1,TP53,p.Q100fs,Frameshift Deletion
+SU2CLC-MGH-1568-T1,TP53,p.E298*,Nonsense_Mutation
+SU2CLC-MGH-1572-T1,TP53,p.A84fs,Frameshift Deletion
+SU2CLC-MGH-1575-T1,TP53,p.R273L,Missense_Mutation
+SU2CLC-MSK-1023-T1,TP53,p.S215R,Missense_Mutation
+SU2CLC-MSK-1025-T1,TP53,p.S215I,Missense_Mutation
+SU2CLC-MSK-1026-T1,TP53,p.E204*,Nonsense_Mutation
+SU2CLC-MSK-1029-T1,TP53,p.G266*,Nonsense_Mutation
+SU2CLC-MSK-1036-T1,TP53,p.L194R,Missense_Mutation
+SU2CLC-MSK-1037-T1,TP53,p.R175L,Missense_Mutation
+SU2CLC-MSK-1038-T1,TP53,p.G266V,Missense_Mutation
+SU2CLC-MSK-1077-T1,TP53,p.G154D,Missense_Mutation
+SU2CLC-MSK-1078-T1,TP53,p.T125T,Splice Site
+SU2CLC-MSK-1079-T1,TP53,p.A159V,Missense_Mutation
+SU2CLC-MSK-1080-T1,TP53,p.V272L,Missense_Mutation
+SU2CLC-MSK-1082-T1,TP53,p.E285K,Missense_Mutation
+SU2CLC-MSK-1084-T1,TP53,p.G154V,Missense_Mutation
+SU2CLC-MSK-1085-T1,TP53,p.Y234C,Missense_Mutation
+SU2CLC-MSK-1086-T1,TP53,p.F134L,Missense_Mutation
+SU2CLC-MSK-1088-T1,TP53,p.R273H,Missense_Mutation
+SU2CLC-MSK-1098-T1,TP53,p.C277F,Missense_Mutation
+SU2CLC-MSK-1099-T1,TP53,p.H179L,Missense_Mutation
+SU2CLC-MSK-1100-T1,TP53,p.R280G,Missense_Mutation
+SU2CLC-MSK-1101-T1,TP53,p.E180K,Missense_Mutation
+SU2CLC-MSK-1102-T1,TP53,p.R158P,Missense_Mutation
+SU2CLC-MSK-1103-T1,TP53,p.EE286del,Inframe Deletion
+SU2CLC-MSK-1112-T1,TP53,p.S241F,Missense_Mutation
+SU2CLC-MSK-1116-T1,TP53,p.M246L,Missense_Mutation
+SU2CLC-MSK-1355-T1,TP53,p.P75fs,Frameshift Deletion
+SU2CLC-MSK-1356-T1,TP53,p.R248W,Missense_Mutation
+SU2CLC-MSK-1357-T1,TP53,p.R273L,Missense_Mutation
+SU2CLC-MSK-1358-T1,TP53,p.D259Y,Missense_Mutation
+SU2CLC-MSK-1360-T1,TP53,p.V157L,Missense_Mutation
+SU2CLC-MSK-1361-T1,TP53,p.S215I,Missense_Mutation
+SU2CLC-MSK-1363-T1,TP53,p.P98fs,Frameshift Deletion
+SU2CLC-MSK-1364-T1,TP53,p.E224D,Splice Site
+SU2CLC-MSK-1365-T1,TP53,p.G187R,Splice Site
+SU2CLC-MSK-1468-T1,TP53,p.V157F,Missense_Mutation
+SU2CLC-MSK-1469-T1,TP53,p.E224E,Splice Site
+SU2CLC-MSK-1541-T1,TP53,p.H214R,Missense_Mutation
+SU2CLC-MSK-1542-T1,TP53,p.G154V,Missense_Mutation
+SU2CLC-MSK-1543-T1,TP53,p.R175H,Missense_Mutation
+SU2CLC-MSK-1545-T1,TP53,p.E298*,Nonsense_Mutation
+SU2CLC-MSK-1548-T1,TP53,p.G262V,Missense_Mutation
+SU2CLC-MSK-1550-T1,TP53,p.P278L,Missense_Mutation
+SU2CLC-MSK-1551-T1,TP53,p.R282W,Missense_Mutation
+SU2CLC-MSK-1555-T1,TP53,p.R333fs,Frameshift Deletion
+SU2CLC-MSK-1556-T1,TP53,p.R273L,Missense_Mutation
+SU2CLC-MSK-A2001-T1,TP53,p.I195T,Missense_Mutation
+SU2CLC-MSK-A2012-T1,TP53,p.E198*,Nonsense_Mutation
+SU2CLC-MSK-A2016-T1,TP53,p.Y220C,Missense_Mutation
+SU2CLC-MSK-A2017-T1,TP53,p.H179R,Missense_Mutation
+SU2CLC-MSK-A2018-T1,TP53,p.R110L,Missense_Mutation
+SU2CLC-MSK-A2021-T1,TP53,p.R249M,Missense_Mutation
+SU2CLC-MSK-A2022-T1,TP53,p.R249S,Missense_Mutation
+SU2CLC-MSK-A2024-T1,TP53,p.T125K,Splice Site
+SU2CLC-MSK-A2028-T1,TP53,p.Q331*,Nonsense_Mutation
+SU2CLC-MSK-A2030-T1,TP53,p.I255F,Missense_Mutation
+SU2CLC-MSK-A2033-T1,TP53,p.R273G,Missense_Mutation
+SU2CLC-MSK-A2036-T1,TP53,p.G325V,Missense_Mutation
+SU2CLC-MSK-A2036-T1,TP53,p.Q331*,Nonsense_Mutation
+SU2CLC-MSK-A2040-T1,TP53,p.G245V,Missense_Mutation
+SU2CLC-MSK-A2059-T1,TP53,p.V172F,Missense_Mutation
+SU2CLC-MSK-A2064-T1,TP53,p.M246L,Missense_Mutation
+SU2CLC-MSK-A2065-T1,TP53,p.R110fs,Frameshift Deletion
+SU2CLC-MSK-A2066-T1,TP53,p.S127Y,Missense_Mutation
+SU2CLC-MSK-A2068-T1,TP53,p.W91*,Nonsense_Mutation
+SU2CLC-MSK-A2069-T1,TP53,p.Q331*,Nonsense_Mutation
+SU2CLC-MSK-A2070-T1,TP53,,Splice Site
+SU2CLC-MSK-A2042-T1,TP53,p.G245S,Missense_Mutation
+SU2CLC-MSK-A2043-T1,TP53,p.A276D,Missense_Mutation
+SU2CLC-MSK-A2044-T1,TP53,p.R110P,Missense_Mutation
+SU2CLC-MSK-A2047-T1,TP53,p.C141Y,Missense_Mutation
+SU2CLC-MSK-A2050-T1,TP53,p.K132N,Missense_Mutation
+SU2CLC-MSK-A2051-T1,TP53,p.C275Y,Missense_Mutation
+SU2CLC-MSK-A2051-T1,TP53,p.Q331H,Splice Site
+SU2CLC-MSK-A2052-T1,TP53,p.N247I,Missense_Mutation
+SU2CLC-MSK-A2054-T1,TP53,p.C242S,Missense_Mutation
+SU2CLC-MSK-A2055-T1,TP53,p.R248Q,Missense_Mutation
+SU2CLC-MSK-A2057-T1,TP53,p.R248Q,Missense_Mutation
+SU2CLC-MSK-A2072-T1,TP53,p.C275F,Missense_Mutation
+SU2CLC-MSK-A2081-T1,TP53,p.P58fs,Frameshift Deletion
+SU2CLC-MSK-A2082-T1,TP53,p.R248H,Missense_Mutation
+SU2CLC-MSK-A2087-T1,TP53,p.VRR173fs,Frameshift Deletion
+SU2CLC-MSK-A2088-T1,TP53,,Splice Site
+SU2CLC-MSK-A2090-T1,TP53,p.R306*,Nonsense_Mutation
+SU2CLC-MSK-A2091-T1,TP53,p.Y205C,Missense_Mutation
+SU2CLC-MSK-A2093-T1,TP53,p.R249M,Missense_Mutation
+SU2CLC-MSK-A2094-T1,TP53,p.C238F,Missense_Mutation
+SU2CLC-MSK-A2095-T1,TP53,p.E298*,Nonsense_Mutation
+SU2CLC-MSK-A2097-T1,TP53,p.V173L,Missense_Mutation
+SU2CLC-UCD-1145-T1,TP53,p.V73fs,Frameshift Deletion
+SU2CLC-UCD-1142-T1,TP53,p.107_108YG>*R,Nonsense_Mutation
+SU2CLC-UCD-1125-T1,TP53,p.Y205S,Missense_Mutation
+SU2CLC-YAL-2501-T1,TP53,p.R283P,Missense_Mutation
+SU2CLC-YAL-2503-T1,TP53,p.Y234*,Nonsense_Mutation
+SU2CLC-YAL-2506-T1,TP53,p.Y126H,Splice Site
+SU2CLC-YAL-2507-T1,TP53,p.E258G,Missense_Mutation
+SU2CLC-YAL-2511-T1,TP53,p.P278S,Missense_Mutation
+SU2CLC-YAL-2518-T1,TP53,p.G154V,Missense_Mutation
+SU2CLC-YAL-2519-T1,TP53,p.H193R,Missense_Mutation
+SU2CLC-YAL-2523-T1,TP53,p.RAMAIY158fs,Frameshift Deletion
+SU2CLC-YAL-2523-T1,TP53,p.V203fs,Frameshift Deletion
+SU2CLC-YAL-2525-T1,TP53,p.Y163C,Missense_Mutation
+SU2CLC-YAL-010-T1,TP53,p.E339*,Nonsense_Mutation
+SU2CLC-YAL-104-T1,TP53,p.E294*,Nonsense_Mutation
+SU2CLC-YAL-111-T1,TP53,p.G245V,Missense_Mutation
+20A,TP53,p.R342X,Nonsense_Mutation
+20A,TP53,p.F341L,Missense_Mutation
+20E,TP53,p.R342X,Nonsense_Mutation
+20E,TP53,p.F341L,Missense_Mutation
+33C,TP53,p.Q192X,Nonsense_Mutation
+34A,TP53,p.G279E,Missense_Mutation
+34A,TP53,p.R248W,Missense_Mutation
+42E,TP53,p.R248W,Missense_Mutation
+49E,TP53,p.Q317X,Nonsense_Mutation
+49E,TP53,p.P190L,Missense_Mutation
+50A,TP53,p.F134S,Missense_Mutation
+50C,TP53,p.F134S,Missense_Mutation
+53A,TP53,p.Q317X,Nonsense_Mutation
+53D,TP53,p.Q317X,Nonsense_Mutation
+54A,TP53,p.P278L,Missense_Mutation
+54C,TP53,p.P278L,Missense_Mutation
+5A,TP53,p.H179N,Missense_Mutation
+6B,TP53,p.P151R,Missense_Mutation
+Pt1,TP53,S127F,Missense_Mutation
+Pt12,TP53,D281H,Missense_Mutation
+Pt14,TP53,P278L,Missense_Mutation
+Pt14,TP53,P278S,Missense_Mutation
+Pt16,TP53,F134L,Missense_Mutation
+Pt24,TP53,R213*,Nonsense_Mutation
+Pt26,TP53,E286K,Missense_Mutation
+Pt33,TP53,S378P,Missense_Mutation
+CGLU125,KRAS,12G>C,Missense_Mutation
+CGLU127,KRAS,13G>C,Missense_Mutation
+CGLU129,KRAS,13G>D,Missense_Mutation
+CGLU130,KRAS,12G>D,Missense_Mutation
+CGLU160,KRAS,12G>D,Missense_Mutation
+CGLU168,KRAS,G12F,Missense_Mutation
+CGLU169,KRAS,12G>C,Missense_Mutation
+CGLU172,KRAS,12G>V,Missense_Mutation
+CGLU181,KRAS,47D>Y,Missense_Mutation
+CGLU185,KRAS,12G>V,Missense_Mutation
+CGLU187,KRAS,G13D,Missense_Mutation
+CGLU193,KRAS,Q61R,Missense_Mutation
+CGLU203,KRAS,12G>C,Missense_Mutation
+CGLU208,KRAS,12G>A,Missense_Mutation
+CGLU212,KRAS,12G>C,Missense_Mutation
+CGLU227,KRAS,G12C,Missense_Mutation
+CGLU229,KRAS,G12D,Missense_Mutation
+CGLU260,KRAS,Q61H,Missense_Mutation
+CGLU262,KRAS,A146V,Missense_Mutation
+CGLU266,KRAS,G12A,Missense_Mutation
+CGLU268,KRAS,G12V,Missense_Mutation
+CGLU270,KRAS,G12D,Missense_Mutation
+CGLU295,KRAS,G12C,Missense_Mutation
+CGLU304,KRAS,G12V,Missense_Mutation
+CGLU310,KRAS,G12V,Missense_Mutation
+CGLU341,KRAS,G12C,Missense_Mutation
+CGLU389,KRAS,G13C,Missense_Mutation
+CGLU512,KRAS,G12V,Missense_Mutation
+CGLU515,KRAS,G12V,Missense_Mutation
+SU2CLC-CLE-NIVO9-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-COL-1001-T1,KRAS,p.G13D,Missense_Mutation
+SU2CLC-COL-1012-T1,KRAS,p.A59G,Missense_Mutation
+SU2CLC-COL-1012-T1,KRAS,p.G60V,Missense_Mutation
+SU2CLC-COL-1034-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-COL-1045-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-DFC-DF0031-T1,KRAS,p.Q61H,Missense_Mutation
+SU2CLC-DFC-1437-T1,KRAS,p.G12A,Missense_Mutation
+SU2CLC-DFC-DF0421-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-DFC-1536-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-DFC-DF0561-T1,KRAS,p.G13C,Missense_Mutation
+SU2CLC-DFC-DF0585-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-DFC-DF0597-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-DFC-DF0770-T1,KRAS,p.G12S,Missense_Mutation
+SU2CLC-DFC-DF0840-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-DFC-DF0881-T1,KRAS,p.G12D,Missense_Mutation
+SU2CLC-DFC-DF0908-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-DFC-1004-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-JHU-0005-T1,KRAS,p.G13C,Missense_Mutation
+SU2CLC-JHU-0010-T1,KRAS,p.G12D,Missense_Mutation
+SU2CLC-JHU-0015-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-JHU-0017-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-JHU-0021-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-JHU-0040-T1,KRAS,p.G13D,Missense_Mutation
+SU2CLC-MGH-1051-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MGH-1134-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MGH-1164-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-MGH-1387-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MGH-1412-T1,KRAS,p.G13D,Missense_Mutation
+SU2CLC-MGH-1415-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MGH-1490-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MGH-1501-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MGH-1503-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MGH-1511-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MGH-1575-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MGH-1619-T1,KRAS,p.G12A,Missense_Mutation
+SU2CLC-MGH-1623-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-MSK-1021-T1,KRAS,p.Q61H,Missense_Mutation
+SU2CLC-MSK-1078-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-1082-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-1096-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-1100-T1,KRAS,p.G12A,Missense_Mutation
+SU2CLC-MSK-1101-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-1102-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-1355-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-MSK-1361-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-1363-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-1364-T1,KRAS,p.G13C,Missense_Mutation
+SU2CLC-MSK-1469-T1,KRAS,p.G13D,Missense_Mutation
+SU2CLC-MSK-1542-T1,KRAS,p.Q61L,Missense_Mutation
+SU2CLC-MSK-1543-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-MSK-1544-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-1549-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-1554-T1,KRAS,p.G12D,Missense_Mutation
+SU2CLC-MSK-1556-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-MSK-A2001-T1,KRAS,p.G12S,Missense_Mutation
+SU2CLC-MSK-A2002-T1,KRAS,p.G12A,Missense_Mutation
+SU2CLC-MSK-A2012-T1,KRAS,p.G13C,Missense_Mutation
+SU2CLC-MSK-A2013-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2017-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2025-T1,KRAS,p.G12F,Missense_Mutation
+SU2CLC-MSK-A2028-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2032-T1,KRAS,p.G13D,Missense_Mutation
+SU2CLC-MSK-A2033-T1,KRAS,p.G13R,Missense_Mutation
+SU2CLC-MSK-A2034-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2035-T1,KRAS,p.G12D,Missense_Mutation
+SU2CLC-MSK-A2040-T1,KRAS,p.G12D,Missense_Mutation
+SU2CLC-MSK-A2060-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2063-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2049-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2052-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2053-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2055-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-MSK-A2074-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2080-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2082-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-MSK-A2085-T1,KRAS,p.Q61H,Missense_Mutation
+SU2CLC-MSK-A2093-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-MSK-A2098-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-UCD-1124-T1,KRAS,p.Q61H,Missense_Mutation
+SU2CLC-UCD-1142-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-UCD-1125-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-YAL-2507-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-YAL-2517-T1,KRAS,p.G12V,Missense_Mutation
+SU2CLC-YAL-2518-T1,KRAS,p.G12S,Missense_Mutation
+SU2CLC-YAL-2519-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-YAL-2525-T1,KRAS,p.G12C,Missense_Mutation
+SU2CLC-YAL-2537-T1,KRAS,p.G12C,Missense_Mutation
+26C,KRAS,p.D57Y,Missense_Mutation
+CGLU134,BRAF,581N>I,Missense_Mutation
+CGLU270,BRAF,R506M,Missense_Mutation
+CGLU510,BRAF,K601E,Missense_Mutation
+SU2CLC-CLE-NIVO19-T1,BRAF,p.V600E,Missense_Mutation
+SU2CLC-COL-1031-T1,BRAF,p.D594G,Missense_Mutation
+SU2CLC-DFC-DF0582-T1,BRAF,p.D594N,Missense_Mutation
+SU2CLC-DFC-DF0709-T1,BRAF,p.V471F,Missense_Mutation
+SU2CLC-DFC-DF0908-T1,BRAF,p.G464V,Missense_Mutation
+SU2CLC-JHU-0007-T1,BRAF,p.N581I,Splice Site
+SU2CLC-MSK-1116-T1,BRAF,p.N581S,Splice Site
+SU2CLC-MSK-A2012-T1,BRAF,p.K601N,Missense_Mutation
+SU2CLC-MSK-A2014-T1,BRAF,p.G469A,Missense_Mutation
+SU2CLC-MSK-A2065-T1,BRAF,p.F247L,Missense_Mutation
+SU2CLC-MSK-A2066-T1,BRAF,p.M117L,Missense_Mutation
+SU2CLC-MSK-A2083-T1,BRAF,p.D594N,Missense_Mutation
+SU2CLC-MSK-A2090-T1,BRAF,p.V600E,Missense_Mutation
+SU2CLC-MSK-A2097-T1,BRAF,p.G466V,Missense_Mutation
+SU2CLC-UCD-1145-T1,BRAF,p.V600L,Missense_Mutation
+SU2CLC-YAL-2503-T1,BRAF,p.G466V,Missense_Mutation
+12A,BRAF,p.V600E,Missense_Mutation
+15C,BRAF,p.V600E,Missense_Mutation
+19D,BRAF,p.V600E,Missense_Mutation
+19D,BRAF,p.V600M,Missense_Mutation
+20A,BRAF,p.P341L,Missense_Mutation
+20E,BRAF,p.P341L,Missense_Mutation
+25A,BRAF,p.V600E,Missense_Mutation
+25C,BRAF,p.V600E,Missense_Mutation
+26C,BRAF,p.H574Y,Missense_Mutation
+26E,BRAF,p.H574Y,Missense_Mutation
+29C,BRAF,p.V600E,Missense_Mutation
+2E,BRAF,p.V600E,Missense_Mutation
+42E,BRAF,p.V600E,Missense_Mutation
+45E,BRAF,p.V600E,Missense_Mutation
+45E,BRAF,p.V600M,Missense_Mutation
+4D,BRAF,p.V600E,Missense_Mutation
+50A,BRAF,p.V600E,Missense_Mutation
+50A,BRAF,p.V600M,Missense_Mutation
+50A,BRAF,p.S446L,Missense_Mutation
+50C,BRAF,p.V600E,Missense_Mutation
+50C,BRAF,p.V600M,Missense_Mutation
+50C,BRAF,p.S446L,Missense_Mutation
+50C,BRAF,p.P318S,Missense_Mutation
+5A,BRAF,p.V600E,Missense_Mutation
+Pt3,BRAF,V600K,Missense_Mutation
+Pt4,BRAF,L331F,Missense_Mutation
+Pt5,BRAF,V600E,Missense_Mutation
+Pt6,BRAF,V600E,Missense_Mutation
+Pt9,BRAF,V600K,Missense_Mutation
+Pt11,BRAF,V600E,Missense_Mutation
+Pt12,BRAF,V600E,Missense_Mutation
+Pt13,BRAF,V600E,Missense_Mutation
+Pt14,BRAF,V600E,Missense_Mutation
+Pt16,BRAF,V600E,Missense_Mutation
+Pt17,BRAF,V600K,Missense_Mutation
+Pt18,BRAF,V600E,Missense_Mutation
+Pt21,BRAF,L597P,Missense_Mutation
+Pt22,BRAF,V600E,Missense_Mutation
+Pt23,BRAF,V600K,Missense_Mutation
+Pt31,BRAF,V600E,Missense_Mutation
+Pt32,BRAF,V600E,Missense_Mutation
+Pt35,BRAF,V600E,Missense_Mutation
+Pt37,BRAF,D594N,Missense_Mutation
+Pt37,BRAF,K483T,Missense_Mutation
+Pt38,BRAF,V600E,Missense_Mutation
+SU2CLC-DFC-DF0768-T1,NRAS,p.D126Y,Missense_Mutation
+SU2CLC-MSK-1116-T1,NRAS,p.Q61K,Missense_Mutation
+SU2CLC-MSK-A2044-T1,NRAS,p.Q61K,Missense_Mutation
+18A,NRAS,p.G12D,Missense_Mutation
+18C,NRAS,p.G12D,Missense_Mutation
+1D,NRAS,p.Q61K,Missense_Mutation
+21C,NRAS,p.Q61L,Missense_Mutation
+24C,NRAS,p.G12D,Missense_Mutation
+28A,NRAS,p.Q61R,Missense_Mutation
+28D,NRAS,p.Q61R,Missense_Mutation
+31A,NRAS,p.Q61R,Missense_Mutation
+33A,NRAS,p.Q61L,Missense_Mutation
+33C,NRAS,p.Q61L,Missense_Mutation
+3C,NRAS,p.G13R,Missense_Mutation
+3D2,NRAS,p.G13R,Missense_Mutation
+53A,NRAS,p.Q61R,Missense_Mutation
+53D,NRAS,p.Q61R,Missense_Mutation
+54A,NRAS,p.Q61K,Missense_Mutation
+54C,NRAS,p.Q61K,Missense_Mutation
+Pt1,NRAS,Q61L,Missense_Mutation
+Pt15,NRAS,G13D,Missense_Mutation
+Pt19,NRAS,Q61K,Missense_Mutation
+Pt20,NRAS,Q61R,Missense_Mutation
+Pt24,NRAS,Q61K,Missense_Mutation
+Pt30,NRAS,Q61L,Missense_Mutation
+Pt33,NRAS,Q61R,Missense_Mutation
+Pt34,NRAS,Q61K,Missense_Mutation
+Pt27,NRAS,T50I,Missense_Mutation
+CGLU121,EGFR,745KELREA>T,Inframe Deletion
+CGLU124,EGFR,N771_H773dup,Inframe Insertion
+CGLU125,EGFR,1881-4A>G,Splice Site
+CGLU199,EGFR,858L>R,Missense_Mutation
+CGLU230,EGFR,E746_A750del,Inframe Deletion
+CGLU243,EGFR,L747_T751del,Inframe Deletion
+SU2CLC-CLE-NIVO18-T1,EGFR,p.773_774insPH,Inframe Insertion
+SU2CLC-DFC-DF0438-T1,EGFR,p.G719C,Missense_Mutation
+SU2CLC-DFC-DF0669-T1,EGFR,p.769_770insASV,Inframe Insertion
+SU2CLC-DFC-DF0777-T1,EGFR,p.Q432K,Missense_Mutation
+SU2CLC-DFC-DF0796-T1,EGFR,p.769_770insASV,Inframe Insertion
+SU2CLC-DFC-DF0910-T1,EGFR,p.770_771DN>DVN,Inframe Insertion
+SU2CLC-DFC-1002-T1,EGFR,p.A871G,Missense_Mutation
+SU2CLC-DFC-1002-T1,EGFR,p.L858R,Missense_Mutation
+SU2CLC-DFC-1005-T1,EGFR,p.ELREA746del,Inframe Deletion
+SU2CLC-DFC-1007-T1,EGFR,p.L858R,Missense_Mutation
+SU2CLC-DFC-1018-T1,EGFR,p.ELREA746del,Inframe Deletion
+SU2CLC-JHU-0024-T1,EGFR,p.LREAT747del,Inframe Deletion
+SU2CLC-MDA-1631-T1,EGFR,p.I744L,Missense_Mutation
+SU2CLC-MSK-1023-T1,EGFR,p.L747P,Missense_Mutation
+SU2CLC-MSK-1025-T1,EGFR,p.G719A,Missense_Mutation
+SU2CLC-MSK-1088-T1,EGFR,p.L858R,Missense_Mutation
+SU2CLC-MSK-1365-T1,EGFR,p.L858R,Missense_Mutation
+SU2CLC-MSK-1553-T1,EGFR,p.769_770insASV,Inframe Insertion
+SU2CLC-MSK-A2020-T1,EGFR,p.ELREA746del,Inframe Deletion
+SU2CLC-MSK-A2024-T1,EGFR,p.ELREA746del,Inframe Deletion
+SU2CLC-MSK-A2043-T1,EGFR,p.T790M,Missense_Mutation
+SU2CLC-MSK-A2043-T1,EGFR,p.LREAT747del,Inframe Deletion
+SU2CLC-MSK-A2046-T1,EGFR,p.770_771insSVD,Inframe Insertion
+SU2CLC-MSK-A2071-T1,EGFR,p.ELREA746del,Inframe Deletion
+SU2CLC-MSK-A2088-T1,EGFR,p.G719A,Missense_Mutation
+SU2CLC-MSK-A2088-T1,EGFR,p.L707W,Missense_Mutation
+SU2CLC-MSK-A2091-T1,EGFR,p.Y299F,Missense_Mutation
+SU2CLC-MSK-A2094-T1,EGFR,p.T363A,Missense_Mutation
+SU2CLC-MSK-A2104-T1,EGFR,p.770_771insGT,Inframe Insertion
+SU2CLC-YAL-2511-T1,EGFR,p.S768I,Missense_Mutation
+SU2CLC-YAL-2511-T1,EGFR,p.V769L,Missense_Mutation
+SU2CLC-YAL-108-T1,EGFR,p.S464L,Missense_Mutation
+SU2CLC-YAL-108-T1,EGFR,p.S492R,Missense_Mutation
+SU2CLC-YAL-111-T1,EGFR,p.A7T,Missense_Mutation
+SU2CLC-YAL-111-T1,EGFR,p.D761Y,Missense_Mutation
+SU2CLC-YAL-111-T1,EGFR,p.G719A,Missense_Mutation
+16C,EGFR,p.A955V,Missense_Mutation
+18A,EGFR,p.E114K,Missense_Mutation
+18C,EGFR,p.E114K,Missense_Mutation
+20E,EGFR,p.A1155G,Missense_Mutation
+25A,EGFR,p.S306L,Missense_Mutation
+25C,EGFR,p.S306L,Missense_Mutation
+28A,EGFR,p.P100H,Missense_Mutation
+28D,EGFR,p.P100H,Missense_Mutation
+47A,EGFR,p.E1004K,Missense_Mutation
+50A,EGFR,p.G322D,Missense_Mutation
+50A,EGFR,p.E758K,Missense_Mutation
+50A,EGFR,p.E928K,Missense_Mutation
+50A,EGFR,p.E967K,Missense_Mutation
+50C,EGFR,p.G322D,Missense_Mutation
+50C,EGFR,p.E758K,Missense_Mutation
+50C,EGFR,p.E928K,Missense_Mutation
+50C,EGFR,p.E967K,Missense_Mutation
+Pt16,EGFR,P919S,Missense_Mutation
+CGLU113,BCLAF1,1852+3A>T,Splice Site
+CGLU181,BCLAF1,498E>Q,Missense_Mutation
+CGLU185,BCLAF1,133Y>H,Missense_Mutation
+CGLU274,BCLAF1,Q82*,Nonsense_Mutation
+CGLU515,BCLAF1,E388Q,Missense_Mutation
+SU2CLC-MGH-1511-T1,BCLAF1,p.P837A,Missense_Mutation
+SU2CLC-YAL-108-T1,BCLAF1,p.D739E,Missense_Mutation
+20A,BCLAF1,p.G452E,Missense_Mutation
+20E,BCLAF1,p.G452E,Missense_Mutation
+24C,BCLAF1,p.R522Q,Missense_Mutation
+24C,BCLAF1,p.P301S,Missense_Mutation
+25A,BCLAF1,p.E172K,Missense_Mutation
+25C,BCLAF1,p.E172K,Missense_Mutation
+33C,BCLAF1,p.E170K,Missense_Mutation
+41A,BCLAF1,p.V554L,Missense_Mutation
+47A,BCLAF1,p.S320L,Missense_Mutation
+Pt1,BCLAF1,D357N,Missense_Mutation
+Pt7,BCLAF1,Q607*,Nonsense_Mutation
+Pt14,BCLAF1,E329K,Missense_Mutation
+Pt16,BCLAF1,Y511C,Missense_Mutation
+Pt23,BCLAF1,K441R,Missense_Mutation
+CGLU130,PIK3CA,545E>K,Missense_Mutation
+CGLU162,PIK3CA,545E>K,Missense_Mutation
+CGLU244,PIK3CA,Y1021C,Missense_Mutation
+SU2CLC-COL-1042-T1,PIK3CA,p.N345T,Missense_Mutation
+SU2CLC-DFC-1014-T1,PIK3CA,p.E542K,Missense_Mutation
+SU2CLC-DFC-1516-T1,PIK3CA,p.C769Y,Missense_Mutation
+SU2CLC-DFC-1516-T1,PIK3CA,p.E726K,Missense_Mutation
+SU2CLC-DFC-DF0775-T1,PIK3CA,p.H1047R,Missense_Mutation
+SU2CLC-DFC-1018-T1,PIK3CA,p.E545K,Missense_Mutation
+SU2CLC-JHU-0010-T1,PIK3CA,p.H1047R,Missense_Mutation
+SU2CLC-JHU-0011-T1,PIK3CA,p.E970K,Missense_Mutation
+SU2CLC-JHU-0012-T1,PIK3CA,p.E545K,Missense_Mutation
+SU2CLC-JHU-0025-T1,PIK3CA,p.Y1021C,Missense_Mutation
+SU2CLC-MGH-1129-T1,PIK3CA,p.L422F,Missense_Mutation
+SU2CLC-MGH-1162-T1,PIK3CA,p.Q958R,Missense_Mutation
+SU2CLC-MGH-1162-T1,PIK3CA,p.S507R,Missense_Mutation
+SU2CLC-MGH-1412-T1,PIK3CA,p.R88P,Missense_Mutation
+SU2CLC-MSK-1087-T1,PIK3CA,p.H1047R,Missense_Mutation
+SU2CLC-MSK-1088-T1,PIK3CA,p.N345Y,Missense_Mutation
+SU2CLC-MSK-1549-T1,PIK3CA,p.P447S,Missense_Mutation
+SU2CLC-MSK-A2032-T1,PIK3CA,p.G364A,Missense_Mutation
+SU2CLC-MSK-A2063-T1,PIK3CA,p.E545K,Missense_Mutation
+SU2CLC-MSK-A2068-T1,PIK3CA,p.E542K,Missense_Mutation
+SU2CLC-MSK-A2047-T1,PIK3CA,p.R93L,Missense_Mutation
+SU2CLC-MSK-A2051-T1,PIK3CA,p.V131F,Missense_Mutation
+SU2CLC-MSK-A2073-T1,PIK3CA,p.E418K,Splice Site
+SU2CLC-MSK-A2073-T1,PIK3CA,p.R88Q,Missense_Mutation
+SU2CLC-YAL-2532-T1,PIK3CA,p.E726K,Missense_Mutation
+26C,PIK3CA,p.P449S,Missense_Mutation
+26E,PIK3CA,p.P449S,Missense_Mutation
+3C,PIK3CA,p.E545K,Missense_Mutation
+4D,PIK3CA,p.E545K,Missense_Mutation
+54A,PIK3CA,p.R357X,Nonsense_Mutation
+54C,PIK3CA,p.R357X,Nonsense_Mutation
+Pt2,PIK3CA,R1023Q,Missense_Mutation
+Pt4,PIK3CA,P394S,Missense_Mutation
+Pt7,PIK3CA,E722K,Missense_Mutation
+Pt22,PIK3CA,H1047L,Missense_Mutation
+Pt28,PIK3CA,L327F,Missense_Mutation
+CGLU172,ATM,3051G>R,Missense_Mutation
+CGLU288,ATM,A2102P,Missense_Mutation
+CGLU307,ATM,K2148R,Missense_Mutation
+CGLU514,ATM,,Splice Site
+CGLU521,ATM,Q2684*,Nonsense_Mutation
+SU2CLC-CLE-NIVO3-T1,ATM,p.R337H,Missense_Mutation
+SU2CLC-CLE-NIVO3-T1,ATM,p.W266G,Missense_Mutation
+SU2CLC-DFC-1437-T1,ATM,p.Y2437D,Splice Site
+SU2CLC-DFC-DF0421-T1,ATM,p.E1009K,Missense_Mutation
+SU2CLC-DFC-DF0531-T1,ATM,p.R2010G,Missense_Mutation
+SU2CLC-DFC-DF0531-T1,ATM,p.W412L,Splice Site
+SU2CLC-DFC-DF0732-T1,ATM,p.R2832L,Missense_Mutation
+SU2CLC-DFC-DF0770-T1,ATM,p.G294V,Missense_Mutation
+SU2CLC-JHU-0017-T1,ATM,p.G3051R,Missense_Mutation
+SU2CLC-MGH-1054-T1,ATM,p.E2257K,Missense_Mutation
+SU2CLC-MGH-1129-T1,ATM,p.R2400T,Missense_Mutation
+SU2CLC-MGH-1131-T1,ATM,p.S474C,Missense_Mutation
+SU2CLC-MSK-1026-T1,ATM,p.H192N,Missense_Mutation
+SU2CLC-MSK-1082-T1,ATM,,Splice Site
+SU2CLC-MSK-1096-T1,ATM,p.G2891D,Splice Site
+SU2CLC-MSK-1357-T1,ATM,p.G529V,Missense_Mutation
+SU2CLC-MSK-1548-T1,ATM,p.D1567H,Missense_Mutation
+SU2CLC-MSK-1549-T1,ATM,,Splice Site
+SU2CLC-MSK-1549-T1,ATM,p.D2721Y,Missense_Mutation
+SU2CLC-MSK-A2002-T1,ATM,p.Q2684*,Nonsense_Mutation
+SU2CLC-MSK-A2002-T1,ATM,p.NF625fs,Frameshift Insertion
+SU2CLC-MSK-A2012-T1,ATM,p.Q2641H,Missense_Mutation
+SU2CLC-MSK-A2035-T1,ATM,p.GEF2777del,Inframe Deletion
+SU2CLC-MSK-A2064-T1,ATM,p.S569I,Missense_Mutation
+SU2CLC-MSK-A2068-T1,ATM,p.E2272K,Missense_Mutation
+SU2CLC-MSK-A2070-T1,ATM,p.Q912H,Missense_Mutation
+SU2CLC-MSK-A2049-T1,ATM,p.I1986V,Missense_Mutation
+SU2CLC-MSK-A2074-T1,ATM,p.E574*,Nonsense_Mutation
+SU2CLC-MSK-A2084-T1,ATM,p.L2952P,Missense_Mutation
+SU2CLC-MSK-A2091-T1,ATM,p.V2288F,Missense_Mutation
+SU2CLC-MSK-A2098-T1,ATM,p.Q2684L,Missense_Mutation
+18A,ATM,p.V2497I,Missense_Mutation
+34A,ATM,p.P424S,Missense_Mutation
+34A,ATM,p.P1378L,Missense_Mutation
+47A,ATM,p.R2598X,Nonsense_Mutation
+Pt8,ATM,S1655F,Missense_Mutation
+Pt14,ATM,S978F,Missense_Mutation
+Pt20,ATM,H2872R,Missense_Mutation
+Pt35,ATM,N1183I,Missense_Mutation
+Pt27,ATM,F657L,Missense_Mutation
+SU2CLC-JHU-0011-T1,HLA-A,p.SQ95fs,Frameshift Deletion
+SU2CLC-YAL-104-T1,HLA-A,p.W23C,Missense_Mutation
+SU2CLC-DFC-1020-T1,HLA-B,p.H117Y,Missense_Mutation
+SU2CLC-MSK-1544-T1,HLA-B,p.W241C,Missense_Mutation
+SU2CLC-MSK-A2028-T1,HLA-B,p.E113Q,Missense_Mutation
+SU2CLC-UCD-1142-T1,HLA-B,p.D161N,Missense_Mutation
+SU2CLC-YAL-103-T1,HLA-B,p.E113*,Nonsense_Mutation
+SU2CLC-COL-1001-T1,B2M,p.A20T,Missense_Mutation
+SU2CLC-MSK-1357-T1,B2M,p.Q28L,Missense_Mutation
+SU2CLC-MSK-1357-T1,B2M,p.S40*,Nonsense_Mutation
+SU2CLC-MSK-A2025-T1,B2M,p.E56K,Missense_Mutation
+SU2CLC-MSK-A2025-T1,B2M,p.E70Q,Missense_Mutation
+SU2CLC-MSK-A2025-T1,B2M,p.E67fs,Frameshift Deletion
+SU2CLC-YAL-2517-T1,B2M,p.E97*,Nonsense_Mutation
+20A,B2M,p.G63X,Nonsense_Mutation
+20E,B2M,p.G63X,Nonsense_Mutation
+Pt30,B2M,12_13LL>L,Inframe Indel
+CGLU135,JAK1,473D>E,Missense_Mutation
+CGLU515,JAK1,Y312C,Missense_Mutation
+SU2CLC-JHU-0008-T1,JAK1,p.D473E,Missense_Mutation
+SU2CLC-MSK-1085-T1,JAK1,p.V194F,Missense_Mutation
+SU2CLC-MSK-1100-T1,JAK1,p.W777C,Missense_Mutation
+SU2CLC-MSK-1468-T1,JAK1,p.T688A,Missense_Mutation
+SU2CLC-MSK-A2040-T1,JAK1,p.G35V,Missense_Mutation
+SU2CLC-MSK-A2042-T1,JAK1,p.I377V,Missense_Mutation
+24C,JAK1,p.P674S,Missense_Mutation
+37B,JAK1,p.E354X,Nonsense_Mutation
+CGLU133,CDKN2A,72C>X,Nonsense_Mutation
+CGLU135,CDKN2A,V28Gfs*25,Frameshift Deletion
+CGLU168,CDKN2A,R80*,Nonsense_Mutation
+CGLU231,CDKN2A,R22P,Missense_Mutation
+CGLU240,CDKN2A,R112Vfs*34,Frameshift Deletion
+CGLU311,CDKN2A,D84Y,Missense_Mutation
+CGLU311,CDKN2A,H83L,Missense_Mutation
+SU2CLC-COL-1025-T1,CDKN2A,p.R58*,Nonsense_Mutation
+SU2CLC-DFC-1423-T1,CDKN2A,p.E88*,Nonsense_Mutation
+SU2CLC-DFC-DF0790-T1,CDKN2A,,Splice Site
+SU2CLC-DFC-DF0899-T1,CDKN2A,p.D116fs,Frameshift Deletion
+SU2CLC-DFC-DF0902-T1,CDKN2A,p.C72*,Nonsense_Mutation
+SU2CLC-DFC-1013-T1,CDKN2A,p.C72*,Nonsense_Mutation
+SU2CLC-JHU-0006-T1,CDKN2A,p.C72*,Nonsense_Mutation
+SU2CLC-MGH-1498-T1,CDKN2A,p.L130Q,Missense_Mutation
+SU2CLC-MGH-1623-T1,CDKN2A,p.LHGAEP65fs,Frameshift Deletion
+SU2CLC-MSK-1026-T1,CDKN2A,p.D84N,Missense_Mutation
+SU2CLC-MSK-1029-T1,CDKN2A,p.D74Y,Missense_Mutation
+SU2CLC-MSK-1079-T1,CDKN2A,p.L64fs,Frameshift Insertion
+SU2CLC-MSK-1084-T1,CDKN2A,p.E119*,Nonsense_Mutation
+SU2CLC-MSK-1102-T1,CDKN2A,p.R80*,Nonsense_Mutation
+SU2CLC-MSK-1543-T1,CDKN2A,p.H83Y,Missense_Mutation
+SU2CLC-MSK-1550-T1,CDKN2A,p.H83Y,Missense_Mutation
+SU2CLC-MSK-A2019-T1,CDKN2A,p.W110*,Nonsense_Mutation
+SU2CLC-MSK-A2040-T1,CDKN2A,p.H83Y,Missense_Mutation
+SU2CLC-MSK-A2053-T1,CDKN2A,p.D74N,Missense_Mutation
+SU2CLC-MSK-A2054-T1,CDKN2A,p.R112fs,Frameshift Deletion
+SU2CLC-MSK-A2083-T1,CDKN2A,p.H83Y,Missense_Mutation
+SU2CLC-MSK-A2095-T1,CDKN2A,p.Y129C,Missense_Mutation
+20A,CDKN2A,p.E88X,Nonsense_Mutation
+20E,CDKN2A,p.E88X,Nonsense_Mutation
+SU2CLC-DFC-DF0648-T1,TAP1,p.D55Y,Missense_Mutation
+SU2CLC-MSK-1025-T1,TAP1,p.L247I,Missense_Mutation
+SU2CLC-MSK-1025-T1,TAP1,p.Q656*,Nonsense_Mutation
+16C,TAP1,p.D278N,Missense_Mutation
+16D,TAP1,p.D278N,Missense_Mutation
+CGLU514,TERT,P923L,Missense_Mutation
+CGLU515,TERT,G926C,Missense_Mutation
+SU2CLC-DFC-1429-T1,TERT,p.R688S,Missense_Mutation
+SU2CLC-DFC-DF0421-T1,TERT,p.R486H,Missense_Mutation
+SU2CLC-DFC-1516-T1,TERT,p.P1029T,Missense_Mutation
+SU2CLC-DFC-1516-T1,TERT,p.R240H,Missense_Mutation
+SU2CLC-DFC-DF0775-T1,TERT,p.S298Y,Missense_Mutation
+SU2CLC-JHU-0004-T1,TERT,p.S334P,Missense_Mutation
+SU2CLC-MGH-1129-T1,TERT,p.T618S,Missense_Mutation
+SU2CLC-MSK-1026-T1,TERT,p.S298F,Missense_Mutation
+SU2CLC-MSK-1357-T1,TERT,p.W317L,Missense_Mutation
+SU2CLC-MSK-A2012-T1,TERT,p.R647*,Nonsense_Mutation
+20A,TERT,p.E668K,Missense_Mutation
+20E,TERT,p.E668K,Missense_Mutation
+54A,TERT,p.G629E,Missense_Mutation
+54A,TERT,p.R237K,Missense_Mutation
+54C,TERT,p.G629E,Missense_Mutation
+54C,TERT,p.R237K,Missense_Mutation
+5A,TERT,p.G641E,Missense_Mutation
+Pt4,TERT,P702S,Missense_Mutation
+Pt4,TERT,G641R,Missense_Mutation
+Pt23,TERT,D685N,Missense_Mutation
+Pt27,TERT,S496F,Missense_Mutation
+CGLU247,CTNNB1,D32G,Missense_Mutation
+SU2CLC-COL-1031-T1,CTNNB1,p.S37F,Missense_Mutation
+SU2CLC-DFC-DF0790-T1,CTNNB1,p.Q177*,Nonsense_Mutation
+SU2CLC-DFC-DF0796-T1,CTNNB1,p.D32G,Missense_Mutation
+SU2CLC-JHU-0027-T1,CTNNB1,p.D32G,Missense_Mutation
+SU2CLC-MGH-1578-T1,CTNNB1,p.D32V,Missense_Mutation
+SU2CLC-MSK-1029-T1,CTNNB1,p.S37C,Missense_Mutation
+SU2CLC-MSK-A2032-T1,CTNNB1,p.D164Y,Missense_Mutation
+SU2CLC-MSK-A2055-T1,CTNNB1,p.S33C,Missense_Mutation
+SU2CLC-YAL-2509-T1,CTNNB1,p.S37F,Missense_Mutation
+49E,CTNNB1,p.P534L,Missense_Mutation
+Pt7,CTNNB1,S37F,Missense_Mutation
+SU2CLC-MGH-1054-T1,PPP6C,p.S167F,Missense_Mutation
+19D,PPP6C,p.H151Y,Missense_Mutation
+25C,PPP6C,p.R301H,Missense_Mutation
+3C,PPP6C,p.R214X,Nonsense_Mutation
+3D1,PPP6C,p.R214X,Nonsense_Mutation
+47A,PPP6C,p.P334S,Missense_Mutation
+Pt1,PPP6C,L305F,Missense_Mutation
+Pt8,PPP6C,R264C,Missense_Mutation
+Pt9,PPP6C,H114Y,Missense_Mutation
+Pt19,PPP6C,R264C,Missense_Mutation
+Pt36,PPP6C,R111Q,Missense_Mutation
+Pt27,PPP6C,,Splice Site
+CGLU132,STK11,86R>X,Nonsense_Mutation
+CGLU160,STK11,272Y>X,Nonsense_Mutation
+CGLU172,STK11,239W>X,Nonsense_Mutation
+CGLU193,STK11,Y131*,Nonsense_Mutation
+CGLU201,STK11,194D>Y,Missense_Mutation
+CGLU203,STK11,D68Tfs*28,Frameshift Deletion
+CGLU262,STK11,P281Rfs*6,Frameshift Deletion
+CGLU268,STK11,E165*,Nonsense_Mutation
+CGLU341,STK11,Q100*,Nonsense_Mutation
+CGLU341,STK11,L282R,Missense_Mutation
+CGLU436,STK11,Q220*,Nonsense_Mutation
+CGLU514,STK11,D194Y,Missense_Mutation
+CGLU519,STK11,E165*,Nonsense_Mutation
+CGLU521,STK11,R40Pfs*11,Frameshift Deletion
+SU2CLC-DFC-DF0033-T1,STK11,p.G251V,Missense_Mutation
+SU2CLC-DFC-1429-T1,STK11,p.K78R,Missense_Mutation
+SU2CLC-DFC-1437-T1,STK11,p.G279fs,Frameshift Deletion
+SU2CLC-DFC-DF0414-T1,STK11,p.C132*,Nonsense_Mutation
+SU2CLC-DFC-1536-T1,STK11,p.G196V,Missense_Mutation
+SU2CLC-DFC-DF0561-T1,STK11,p.K287*,Nonsense_Mutation
+SU2CLC-DFC-DF0598-T1,STK11,p.D194Y,Missense_Mutation
+SU2CLC-DFC-1535-T1,STK11,p.L282R,Missense_Mutation
+SU2CLC-DFC-DF0775-T1,STK11,p.K269*,Nonsense_Mutation
+SU2CLC-DFC-DF0902-T1,STK11,p.H174P,Missense_Mutation
+SU2CLC-DFC-DF0902-T1,STK11,p.I172T,Missense_Mutation
+SU2CLC-DFC-1003-T1,STK11,,Splice Site
+SU2CLC-DFC-1013-T1,STK11,p.R297T,Missense_Mutation
+SU2CLC-JHU-0007-T1,STK11,p.KG287del,Splice Site
+SU2CLC-JHU-0017-T1,STK11,p.W239*,Nonsense_Mutation
+SU2CLC-MGH-1051-T1,STK11,p.G242V,Missense_Mutation
+SU2CLC-MGH-1166-T1,STK11,p.G196V,Missense_Mutation
+SU2CLC-MGH-1417-T1,STK11,,Splice Site
+SU2CLC-MGH-1418-T1,STK11,p.S69*,Nonsense_Mutation
+SU2CLC-MGH-1501-T1,STK11,p.W308L,Missense_Mutation
+SU2CLC-MGH-1575-T1,STK11,p.D237Y,Missense_Mutation
+SU2CLC-MGH-1578-T1,STK11,,Splice Site
+SU2CLC-MGH-1619-T1,STK11,p.Y60*,Nonsense_Mutation
+SU2CLC-MSK-1021-T1,STK11,p.L55fs,Frameshift Deletion
+SU2CLC-MSK-1080-T1,STK11,p.G155fs,Splice Site
+SU2CLC-MSK-1081-T1,STK11,p.R304W,Missense_Mutation
+SU2CLC-MSK-1085-T1,STK11,p.A591T,Missense_Mutation
+SU2CLC-MSK-1096-T1,STK11,p.N181S,Missense_Mutation
+SU2CLC-MSK-1114-T1,STK11,p.E120*,Nonsense_Mutation
+SU2CLC-MSK-1544-T1,STK11,p.R443W,Missense_Mutation
+SU2CLC-MSK-A2002-T1,STK11,p.E57*,Nonsense_Mutation
+SU2CLC-MSK-A2013-T1,STK11,p.E293*,Nonsense_Mutation
+SU2CLC-MSK-A2014-T1,STK11,p.R147fs,Frameshift Deletion
+SU2CLC-MSK-A2033-T1,STK11,,Splice Site
+SU2CLC-MSK-A2037-T1,STK11,p.E130*,Nonsense_Mutation
+SU2CLC-MSK-A2068-T1,STK11,p.Q159*,Nonsense_Mutation
+SU2CLC-MSK-A2069-T1,STK11,p.E374V,Missense_Mutation
+SU2CLC-MSK-A2049-T1,STK11,p.A241P,Missense_Mutation
+SU2CLC-MSK-A2082-T1,STK11,p.A198fs,Frameshift Deletion
+SU2CLC-MSK-A2083-T1,STK11,p.K84*,Nonsense_Mutation
+SU2CLC-UCD-1145-T1,STK11,p.E130*,Nonsense_Mutation
+SU2CLC-YAL-2507-T1,STK11,p.D194Y,Missense_Mutation
+SU2CLC-YAL-2509-T1,STK11,p.L105S,Missense_Mutation
+SU2CLC-YAL-2537-T1,STK11,p.L282fs,Frameshift Deletion
+SU2CLC-YAL-104-T1,STK11,p.K62fs,Frameshift Deletion
+SU2CLC-YAL-108-T1,STK11,p.E223*,Nonsense_Mutation
+Pt17,STK11,T250R,Missense_Mutation
+CGLU111,FAT1,1421Q>R,Missense_Mutation
+CGLU115,FAT1,G1181Efs*23,Frameshift Deletion
+CGLU129,FAT1,1310S>L,Missense_Mutation
+CGLU197,FAT1,3554S>A,Missense_Mutation
+CGLU201,FAT1,2031V>F,Missense_Mutation
+CGLU233,FAT1,G697V,Missense_Mutation
+CGLU233,FAT1,E87*,Nonsense_Mutation
+CGLU337,FAT1,H4516Y,Missense_Mutation
+CGLU512,FAT1,Q1421R,Missense_Mutation
+SU2CLC-COL-1035-T1,FAT1,p.D834N,Missense_Mutation
+SU2CLC-DFC-DF0047-T1,FAT1,,Splice Site
+SU2CLC-DFC-DF0240-T1,FAT1,p.D1626V,Missense_Mutation
+SU2CLC-DFC-DF0326-T1,FAT1,p.E3088*,Nonsense_Mutation
+SU2CLC-DFC-DF0414-T1,FAT1,p.D4430Y,Missense_Mutation
+SU2CLC-DFC-DF0691-T1,FAT1,p.K3159N,Missense_Mutation
+SU2CLC-DFC-DF0775-T1,FAT1,p.L3062F,Missense_Mutation
+SU2CLC-DFC-DF0790-T1,FAT1,p.I3045M,Missense_Mutation
+SU2CLC-JHU-0002-T1,FAT1,p.G1181fs,Frameshift Deletion
+SU2CLC-JHU-0018-T1,FAT1,p.D1172V,Missense_Mutation
+SU2CLC-JHU-0019-T1,FAT1,p.A1266V,Missense_Mutation
+SU2CLC-JHU-0027-T1,FAT1,p.A2307T,Missense_Mutation
+SU2CLC-JHU-0040-T1,FAT1,p.S1310L,Missense_Mutation
+SU2CLC-MDA-1563-T1,FAT1,p.R2316S,Missense_Mutation
+SU2CLC-MDA-1563-T1,FAT1,p.S1803*,Nonsense_Mutation
+SU2CLC-MGH-1149-T1,FAT1,p.D953Y,Missense_Mutation
+SU2CLC-MGH-1149-T1,FAT1,p.V350F,Missense_Mutation
+SU2CLC-MGH-1164-T1,FAT1,,Splice Site
+SU2CLC-MGH-1164-T1,FAT1,p.R1002S,Missense_Mutation
+SU2CLC-MGH-1389-T1,FAT1,p.I3680V,Missense_Mutation
+SU2CLC-MGH-1412-T1,FAT1,p.S2914T,Missense_Mutation
+SU2CLC-MGH-1417-T1,FAT1,p.C4202Y,Missense_Mutation
+SU2CLC-MSK-1026-T1,FAT1,p.A596S,Missense_Mutation
+SU2CLC-MSK-1026-T1,FAT1,p.E368Q,Missense_Mutation
+SU2CLC-MSK-1081-T1,FAT1,p.E2667K,Missense_Mutation
+SU2CLC-MSK-1084-T1,FAT1,p.Q987L,Missense_Mutation
+SU2CLC-MSK-1357-T1,FAT1,p.G2V,Missense_Mutation
+SU2CLC-MSK-1360-T1,FAT1,p.Q2884*,Nonsense_Mutation
+SU2CLC-MSK-1550-T1,FAT1,p.L612P,Missense_Mutation
+SU2CLC-MSK-A2060-T1,FAT1,p.G1307V,Missense_Mutation
+SU2CLC-MSK-A2070-T1,FAT1,p.G3657C,Missense_Mutation
+SU2CLC-MSK-A2052-T1,FAT1,p.G4034V,Missense_Mutation
+SU2CLC-MSK-A2081-T1,FAT1,p.R4086K,Splice Site
+SU2CLC-YAL-2503-T1,FAT1,p.R3773H,Missense_Mutation
+SU2CLC-YAL-2506-T1,FAT1,p.E3723Q,Missense_Mutation
+SU2CLC-YAL-2518-T1,FAT1,p.K1881fs,Frameshift Deletion
+15C,FAT1,p.G91R,Missense_Mutation
+24C,FAT1,p.R1506C,Missense_Mutation
+31A,FAT1,p.I2725M,Missense_Mutation
+34A,FAT1,p.S3803F,Missense_Mutation
+Pt3,FAT1,R2545K,Missense_Mutation
+Pt4,FAT1,S4562C,Missense_Mutation
+Pt15,FAT1,K2515*,Nonsense_Mutation
+Pt19,FAT1,P1384S,Missense_Mutation
+Pt28,FAT1,R2674*,Nonsense_Mutation
+SU2CLC-MGH-1135-T1,IFNGR1,p.C85F,Missense_Mutation
+SU2CLC-MSK-A2028-T1,IFNGR1,p.E323G,Missense_Mutation
+SU2CLC-MSK-A2052-T1,IFNGR1,p.Q184H,Missense_Mutation
+Pt29,IFNGR1,K126E,Missense_Mutation
+Pt19,RAC1,P29S,Missense_Mutation
+Pt30,RAC1,P29S,Missense_Mutation

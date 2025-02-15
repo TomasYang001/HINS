@@ -19,7 +19,7 @@ import argparse
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-# dataset = pd.read_csv("NAgdata/Rizvi.csv")
+# dataset = pd.read_csv("NAgdata/V1_IEDB.csv")
 #
 # HLA_name = dataset["HLA"]
 # Antigen = dataset["Antigen"]
