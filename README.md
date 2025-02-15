@@ -4,7 +4,7 @@ Immune checkpoint blockade (ICB) therapy response prediction provides remarkable
 
 ## Graphic Abstract
 <p align="center">
-<img src="https://github.com/TomasYang001/HINS/blob/main/Graphic_Abstract.png" align="middle" height="80%" width="80%" />
+<img src="https://github.com/TomasYang001/HINS/blob/main/Graphic_Abstract.png" align="middle" height="100%" width="100%" />
 </p>
 
 ## The environment of HINS
