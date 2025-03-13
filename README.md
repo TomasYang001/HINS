@@ -41,8 +41,9 @@ In this paper, neoantigen data for model training are downloaded from IEDB (http
 
 ## Run HINS
 (1)Data embedding:
-Please use the file Dataprocess.py to perform the embedding of Blosum62、Blosum50 or One-hot
-Please use the file ESM.py to perform the embedding of ESM2-650
+Please use the file Dataprocess.py to perform the embedding of Blosum62、Blosum50 or One-hot.
+
+Please use the file ESM.py to perform the embedding of ESM2-650.
 
 (2)5-fold CV for deep attention networks(DANs):
 
@@ -56,9 +57,9 @@ Blosum62 plus EMS2:
 bash nfold.sh
 ```
 
-(3)Calculating neoanitgen quality with the file Compute_quality.py
+(3)Calculating neoanitgen quality with the file Compute_quality.py.
 
-(4)Using HINS to predict the response to ICB therapy with the file Prediction.py
+(4)Using HINS to predict the response to ICB therapy with the file Prediction.py.
 ```sh
 python Prediction.py "CGLU111" "NAgdata/CGLU111.csv"
 ```
@@ -66,7 +67,7 @@ python Prediction.py "CGLU111" "NAgdata/CGLU111.csv"
 ## Webserver
 HINS is now available as a webserver!
 
-We recommend using HINS webserver available at
+We recommend using HINS webserver available at http://8.130.90.0:3000/
 
 # Acknowledgments
 The authors sincerely hope to receive any suggestions from you!
