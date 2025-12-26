@@ -67,7 +67,8 @@ python Prediction.py "CGLU111" "NAgdata/CGLU111.csv"
 ## Webserver
 HINS is now available as a webserver!
 
-We recommend using HINS webserver available at http://8.130.90.0:80/
+We recommend using HINS webserver available at www.yqcombio.cn/HINS.
+
 
 # Acknowledgments
 The authors sincerely hope to receive any suggestions from you!
